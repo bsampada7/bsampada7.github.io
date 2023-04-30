@@ -14,9 +14,7 @@ jQuery(document).ready(function() {
   kura_tm_imgtosvg();
   kura_tm_popup();
   kura_tm_data_images();
-  kura_tm_contact_form();
   kura_tm_swiper();
-  kura_tm_jarallax();
   jQuery(window).load('body', function() {
       kura_tm_my_load();
   });
